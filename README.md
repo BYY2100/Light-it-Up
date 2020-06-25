@@ -1,9 +1,9 @@
 # Light-it-Up
 This project was my last school project together with 2 of my friends. This project was made to save energy consumption from electricity using in light bulbs.
 
-### This Project Was Made By Baher Attallah (BYY2100), Ahmed Ibraheem, and Ramy Mohsen.
-### This Project's Copyrights are reserved for Baher Attallah (BYY2100), Ahmed Ibraheem, and Ramy Mohsen.
-### This Project Was Made in Assiut STEM School
+#### This Project Was Made By Baher Attallah (BYY2100), Ahmed Ibraheem, and Ramy Mohsen.
+#### This Project's Copyrights are reserved for Baher Attallah (BYY2100), Ahmed Ibraheem, and Ramy Mohsen.
+#### This Project Was Made in Assiut STEM School
 
 #############################################################################################
 # Quick Abstract About The Project
